@@ -3,7 +3,7 @@
 
 ## Laravel Checklister
 
-### install dependencies
+### Install dependencies
 $ composer install 
 
 
@@ -22,6 +22,8 @@ $ php artisan migrate
 ### Seed the database
 $ php artisan db:seed
 
-### make a storage link , If nedded
+### Make a storage link , If nedded
 $ php artisan storage:link
 
+### Run application
+$ php artisan serve
