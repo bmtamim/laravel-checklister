@@ -1,0 +1,13 @@
+.c-sidebar-nav-dropdown.c-show > .c-sidebar-nav-dropdown-items{
+    margin-left: 20px;
+}
+.ck-editor__editable {
+    min-height: 300px;
+}
+.c-sidebar{
+    overflow: hidden;
+    overflow-y: auto;
+}
+html:not([dir="rtl"]) .c-sidebar-nav-dropdown-items .c-sidebar-nav-dropdown-toggle, html:not([dir="rtl"]) .c-sidebar-nav-dropdown-items .c-sidebar-nav-link{
+    padding-left:15px;
+}
